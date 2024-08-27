@@ -1,0 +1,41 @@
+button{
+    color: red;
+    background: green;
+}
+
+#para1{
+    color: white;
+    background-color: black;
+}
+
+#para2{
+    color: yellow;
+    background-color: black;
+}
+
+.new{
+    color: brown;
+    background-color: aqua;
+}
+
+div{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    margin-left: 20px;
+    padding-left: 20px;
+    border: 1px solid;
+    border-color: yellow;
+}
+
+.box{
+    margin-left: 100px;
+    padding-left: 50px;
+}
+
+.inner-div{
+    margin: 10px;
+    background: lightcyan;
+    width: 200px;
+    height: 100px;
+}
