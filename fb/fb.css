@@ -1,0 +1,142 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+
+.logo-txt{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+
+.login-label{
+    color: white;
+    font-size: 11px;
+}
+
+.login-controls{
+    margin-left: 115px;
+}
+
+.forgotten{
+    color: white;
+    font-size: 11px;
+    text-decoration: none;
+
+}
+
+.submit-button{
+    background-color: #4267b2;
+    color: white;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.submit-button:hover{
+    background: red;
+}
+
+.main-body{ 
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 500px;
+}
+
+.left-side{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+
+.right-side{
+    width: 30%;
+    float: left;
+    padding-top: 2px;
+}
+
+.quote{
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.image{
+    width: 581px;
+}
+
+.create-account{
+    float: left;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.quote2{
+    float: left;
+    margin: 4px;
+    font-size: 18px;
+}
+
+.details-form{
+    float: left;
+}
+
+.first-row{
+    float: left;
+    margin-top: 20px
+}
+
+.first-name{
+    float: left;
+    width: 175px;
+    height: 25px;
+}
+
+.sur-name{
+    float: left;
+    width: 175px;
+    margin-left: 12px;
+    height: 25px;
+}
+
+.mobile{
+    float: left;
+    width: 370px;
+    margin-top: 10px;
+    height: 25px;
+}
+
+.password{
+    float: left;
+    width: 370px;
+    margin-top: 10px;
+    height: 25px;
+}
+
+.bday-text{
+    float: left;
+    margin-top: 12px;
+    font-weight: bold;
+    font-size: 13px;
+}
